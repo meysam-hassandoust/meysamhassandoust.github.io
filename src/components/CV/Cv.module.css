@@ -1,0 +1,22 @@
+ul {
+  list-style: none;
+}
+
+li::before {
+  content: "•";
+  margin-right: 0.5em;
+}
+li {
+  margin-top: 1rem;
+  margin-bottom: 10px;
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+.cv {
+  overflow: scroll;
+}
+span {
+  margin-left: 10px;
+}

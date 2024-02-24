@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60af4c17.css",
+    "main.js": "/static/js/main.84ed48b5.js",
+    "static/media/اولین مسابقه فیزیک دانشجویی (3).png": "/static/media/اولین مسابقه فیزیک دانشجویی (3).eeb1ba8aec067b397d4b.png",
+    "static/media/unnamed1.jpg": "/static/media/unnamed1.40699cab9c099fa81d10.jpg",
+    "index.html": "/index.html",
+    "main.60af4c17.css.map": "/static/css/main.60af4c17.css.map",
+    "main.84ed48b5.js.map": "/static/js/main.84ed48b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60af4c17.css",
+    "static/js/main.84ed48b5.js"
+  ]
+}
